@@ -1,3 +1,4 @@
+the main project starts from welcome.jsp
 download apache tomcat higher than 8.5 for this project. 
 use mysql preferred with xampp.
 create database with name 'admin' under which create table of name "admin" - for users data, "payment"- for payment data, "books"- for books data.
